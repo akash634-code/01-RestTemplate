@@ -18,6 +18,8 @@ public class RestTemplateApplication {
 	   ResponseEntity<Response> responseforEntity = rt.getForEntity(url, Response.class);
 		Response body = responseforEntity.getBody();
 		System.out.println(body);
+System.out.println("completed");
+
 	}
 
 }
