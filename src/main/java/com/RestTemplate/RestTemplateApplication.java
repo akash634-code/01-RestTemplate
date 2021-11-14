@@ -12,6 +12,7 @@ import com.RestTemplate.client.Response;
 public class RestTemplateApplication {
 
 	public static void main(String[] args) {
+int x=10;
 		SpringApplication.run(RestTemplateApplication.class, args);
 	   RestTemplate rt=new RestTemplate();
 	   String url="https://quoters.apps.pcfone.io/api/random";
