@@ -37,6 +37,6 @@ public class Response {
 	public void setValue(Value value) {
 		this.value = value;
 	}
-	
+	//changes HIS-102
 
 }
