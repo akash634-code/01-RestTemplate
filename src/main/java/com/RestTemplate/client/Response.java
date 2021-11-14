@@ -37,6 +37,11 @@ public class Response {
 	public void setValue(Value value) {
 		this.value = value;
 	}
+<<<<<<< HEAD
 	//changes HIS-102
 
+=======
+	
+System.out.println("testing");
+>>>>>>> 314a3f0d74b5d85d13ecbbbc4be89de562099041
 }
