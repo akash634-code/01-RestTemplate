@@ -19,5 +19,5 @@ public class Value {
 	public String toString() {
 		return "Value [id=" + id + ", quote=" + quote + "]";
 	}
-
+//changes in HIS-101
 }
